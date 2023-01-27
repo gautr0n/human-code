@@ -1,10 +1,38 @@
-# SCEGLIERE FOTO 
- # -Prendo il cellulare, apro app gallery 
+
+SCEGLIERE FOTO 
+ - Prendo il cellulare, apro app gallery 
+
+-Scorro foto 
+
+-Seleziono foto 
+
+  -PER OGNI FOTO della vacanza 
+
+                        -SE ci sono paesaggi le tengo
+
+        -SE sono sfocate
+                   le scarto
+
+  -:ALTRIMENTI 
+                  le scarto 
 
 
- # PER OGNI FOTO  della vacanza 
+APRIRE IG
+-Premo pulsante per caricare foto 
+-Seleziono foto:                                     
+-PER OGNI foto selezionata 
 
-                       SE ci sono paesaggi le tengo
-     SE sono sfocate le scarto
-  :ALTRIMENTI le scarto 
-test
+           -Carico foto
+
+           - Scelgo filtro 
+
+-SE mi piace, 
+scrivo la didascalia e metto hashtag
+
+-:ALTRIMENTI 
+cambio filtro 
+
+
+POSTO FOTO
+-Aggiungo/scelgo località
+                      -Premo pulsante e posto foto
