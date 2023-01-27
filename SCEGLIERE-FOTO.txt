@@ -1,0 +1,10 @@
+# SCEGLIERE FOTO 
+ # -Prendo il cellulare, apro app gallery 
+
+
+ # PER OGNI FOTO  della vacanza 
+
+                       SE ci sono paesaggi le tengo
+     SE sono sfocate le scarto
+  :ALTRIMENTI le scarto 
+test
